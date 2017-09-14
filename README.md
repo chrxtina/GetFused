@@ -1,4 +1,4 @@
-# GetFused
+# Getfused
 Projects that I contributed to as a Front End Developer at [Getfused](http://www.getfused.com/):
 
 * [MagnoGrip](http://www.magnogrip.com/)
